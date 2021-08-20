@@ -1,0 +1,12 @@
+.coin {
+    width: 5em;
+    height: 5em;
+    margin-bottom: 1em;
+}
+
+.game-container {
+    display: flex;
+    flex-direction: column;
+    width: 8em;
+    margin: auto;
+}
